@@ -10,7 +10,7 @@ Finde lokale Freizeitaktivitäten für einen angegebenen Ort und optionale Kateg
 ![docs/1.png](docs/1.png)
 2. Auf dieser Seite dann rechts oben auf "Neue Fähigkeiten" -> "Von deinem Computer hochladen"
 ![docs/install/2.png](docs/install/2.png)
-3. Ziehe die [SKILL.zip](SKILL.zip) Datei aus dem Ordner hier in das Feld
+3. Ziehe die [SKILL.zip](https://github.com/Sharaal/leisure-planning-skill/raw/main/SKILL.zip) Datei aus dem Ordner hier in das Feld
 
 ## Verwendung
 
