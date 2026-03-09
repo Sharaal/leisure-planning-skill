@@ -1,0 +1,3 @@
+interface:
+  display_name: "Freizeitplanung Lokal"
+  short_description: "Finde lokale Freizeitaktivitäten für einen angegebenen Ort und optionale Kategoriefilter, einschließlich der Verfügbarkeit für einen bestimmten Tag und eine bestimmte Uhrzeit. Geeignet für strukturierte Empfehlungen zu Cafés, Spaziergängen, Restaurants, Aktivitäten und ähnlichen lokalen Angeboten mit praktischen Details wie Parkmöglichkeiten, Fußwegentfernung, Öffnungszeiten, Kosten, Adresse und Homepage."
